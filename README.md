@@ -11,3 +11,5 @@ Steps to reproduce unexpected behaviour:
 - Login with root:root
 
 Now you are on the non existing page, instead of the exptected startpage
+
+Ticket: https://github.com/grails-plugins/grails-spring-security-core/issues/560
